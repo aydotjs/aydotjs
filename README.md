@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayobami Owoeye</h1>
-<h3 align="center">I write code that is so clean, my mom thinks I'm a maid.</h3>
+<h3 align="center">I write code that is so clean, my mom thinks I'm a maid😍.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
